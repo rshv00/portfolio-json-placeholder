@@ -83,18 +83,21 @@
     ],
     "contacts": [
       {
+        "id": 0,
         "iconUrl": "phone.svg",
         "iconAlt": "Phone icon",
         "value": "500 345 242",
         "href": "tel:500345242"
       },
       {
+        "id": 1,
         "iconUrl": "email.svg",
         "iconAlt": "Mail icon",
         "value": "office@kamsolutions.pl",
         "href": "mailto:office@kamsolutions.pl"
       },
       {
+        "id": 2,
         "iconUrl": "twitter.svg",
         "iconAlt": "Twitter icon",
         "value": "https://twitter.com/wordpress",
@@ -102,6 +105,7 @@
         "title": "Twitter"
       },
       {
+        "id": 3,
         "iconUrl": "facebook.svg",
         "iconAlt": "Facebook icon",
         "value": "https://facebook.com/facebook",
@@ -109,6 +113,7 @@
         "title": "Twitter"
       },
       {
+        "id": 4,
         "iconUrl": "skype.svg",
         "iconAlt": "Skype icon",
         "value": "kamsolutions.pl",
@@ -123,17 +128,17 @@
         "level": "9"
       },
       {
-        "id": 0,
+        "id": 1,
         "technology": "CSS",
         "level": "7"
       },
       {
-        "id": 0,
+        "id": 2,
         "technology": "jQuery",
         "level": "2"
       },
       {
-        "id": 0,
+        "id": 3,
         "technology": "Angular",
         "level": "5"
       }
