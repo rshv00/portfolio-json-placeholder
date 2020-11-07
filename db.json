@@ -61,8 +61,7 @@
       {
         "id": 0,
         "feedbackAuthor": {
-          "firstName": "Martin",
-          "lastName": "Friman",
+          "name": "Martin Friman",
           "jobPosition": "CEO",
           "company": "Glusco",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-app-53768.appspot.com/o/sadovyy.jpeg?alt=media&token=760c77ef-c28f-4d98-a560-60394828a0ce"
@@ -72,8 +71,7 @@
       {
         "id": 1,
         "feedbackAuthor": {
-          "firstName": "Hanna",
-          "lastName": "Lindemann",
+          "name": "Hanna Lindemann",
           "jobPosition": "CEO",
           "company": "BananaBomb",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-app-53768.appspot.com/o/Rohini-Mohan.webp?alt=media&token=104d995c-f1ca-42bd-bab9-66f073dea3a2"
@@ -148,8 +146,7 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda atque beatae, blanditiis earum, enim explicabo fugiat harum itaque nostrum perferendis porro quidem quis quo quos ut vero voluptatem voluptatibus.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda atque beatae, blanditiis earum, enim explicabo fugiat harum itaque nostrum perferendis porro quidem quis quo quos ut vero voluptatem voluptatibus."
     },
     "personData": {
-      "firstName": "John",
-      "lastName": "Doe",
+      "name": "John Doe",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-app-53768.appspot.com/o/profile_photo.jpg?alt=media&token=cf004a6e-de47-4996-8321-1de5b0383b27"
     }
   },
