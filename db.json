@@ -1,0 +1,149 @@
+{
+  "education": [
+    {
+      "id": 0,
+      "period": "2007-2011",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur."
+    },
+    {
+      "id": 1,
+      "period": "2013-2015",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur."
+    },
+    {
+      "id": 2,
+      "period": "2017-2018",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur."
+    },
+    {
+      "id": 3,
+      "period": "2018-2019",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur."
+    },
+    {
+      "id": 4,
+      "period": "2020",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur."
+    }
+  ],
+  "experience": [
+    {
+      "id": 0,
+      "jobPlace": "Google",
+      "period": "2013-2014",
+      "jobTitle": "Front-end developer / Angular programmer",
+      "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate dignissimos dolorum exercitationem minus molestiae nulla perferendis, quam quisquam quod repellat tempora tenetur vitae? A asperiores consectetur incidunt omnis quasi soluta?"
+    },
+    {
+      "id": 1,
+      "jobPlace": "Twitter",
+      "period": "2014-2015",
+      "jobTitle": "Front-end developer / Angular programmer",
+      "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate dignissimos dolorum exercitationem minus molestiae nulla perferendis, quam quisquam quod repellat tempora tenetur vitae? A asperiores consectetur incidunt omnis quasi soluta?"
+    },
+    {
+      "id": 2,
+      "jobPlace": "Airbnb",
+      "period": "2015-2017",
+      "jobTitle": "Front-end developer / Angular programmer",
+      "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate dignissimos dolorum exercitationem minus molestiae nulla perferendis, quam quisquam quod repellat tempora tenetur vitae? A asperiores consectetur incidunt omnis quasi soluta?"
+    },
+    {
+      "id": 3,
+      "jobPlace": "Microsoft",
+      "period": "2017-2020",
+      "jobTitle": "Front-end developer / Angular programmer",
+      "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate dignissimos dolorum exercitationem minus molestiae nulla perferendis, quam quisquam quod repellat tempora tenetur vitae? A asperiores consectetur incidunt omnis quasi soluta?"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": 0,
+      "feedbackAuthor": {
+        "firstName": "Martin",
+        "lastName": "Friman",
+        "jobPosition": "CEO",
+        "company": "Glusco",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-app-53768.appspot.com/o/sadovyy.jpeg?alt=media&token=760c77ef-c28f-4d98-a560-60394828a0ce"
+      },
+      "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    },
+    {
+      "id": 1,
+      "feedbackAuthor": {
+        "firstName": "Hanna",
+        "lastName": "Lindemann",
+        "jobPosition": "CEO",
+        "company": "BananaBomb",
+        "photoUrl": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2019/08/Rohini-Mohan.jpg"
+      },
+      "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    }
+  ],
+  "contacts": [
+    {
+      "iconUrl": "phone.svg",
+      "iconAlt": "Phone icon",
+      "value": "500 345 242",
+      "href": "tel:500345242"
+    },
+    {
+      "iconUrl": "email.svg",
+      "iconAlt": "Mail icon",
+      "value": "office@kamsolutions.pl",
+      "href": "mailto:office@kamsolutions.pl"
+    },
+    {
+      "iconUrl": "twitter.svg",
+      "iconAlt": "Twitter icon",
+      "value": "https://twitter.com/wordpress",
+      "href": "https://twitter.com/wordpress",
+      "title": "Twitter"
+    },
+    {
+      "iconUrl": "facebook.svg",
+      "iconAlt": "Facebook icon",
+      "value": "https://facebook.com/facebook",
+      "href": "https://facebook.com/facebook",
+      "title": "Twitter"
+    },
+    {
+      "iconUrl": "skype.svg",
+      "iconAlt": "Skype icon",
+      "value": "kamsolutions.pl",
+      "href": "callto:kamsolutions.pl",
+      "title": "Skype"
+    }
+  ],
+  "skills": [
+    {
+      "id": 0,
+      "technology": "HTML",
+      "level": "9"
+    },
+    {
+      "id": 0,
+      "technology": "CSS",
+      "level": "7"
+    },
+    {
+      "id": 0,
+      "technology": "jQuery",
+      "level": "2"
+    },
+    {
+      "id": 0,
+      "technology": "Angular",
+      "level": "5"
+    }
+  ],
+  "aboutText": {
+    "header": "Nice to meet you!",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda atque beatae, blanditiis earum, enim explicabo fugiat harum itaque nostrum perferendis porro quidem quis quo quos ut vero voluptatem voluptatibus.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda atque beatae, blanditiis earum, enim explicabo fugiat harum itaque nostrum perferendis porro quidem quis quo quos ut vero voluptatem voluptatibus."
+  },
+  "personData": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-app-53768.appspot.com/o/profile_photo.jpg?alt=media&token=cf004a6e-de47-4996-8321-1de5b0383b27"
+  }
+}
