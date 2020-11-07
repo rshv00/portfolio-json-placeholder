@@ -147,7 +147,8 @@
     },
     "personData": {
       "name": "John Doe",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-app-53768.appspot.com/o/profile_photo.jpg?alt=media&token=cf004a6e-de47-4996-8321-1de5b0383b27"
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-app-53768.appspot.com/o/profile_photo.jpg?alt=media&token=cf004a6e-de47-4996-8321-1de5b0383b27",
+      "frontBackgroundPicUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-app-53768.appspot.com/o/background_image.png?alt=media&token=6c3421ae-a7c8-475f-8d19-3290241d745f"
     }
   },
   "contentPost": {
