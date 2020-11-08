@@ -82,38 +82,33 @@
     "contacts": [
       {
         "id": 0,
-        "iconUrl": "phone.svg",
-        "iconAlt": "Phone icon",
+        "iconName": "phone.svg",
         "value": "500 345 242",
         "href": "tel:500345242"
       },
       {
         "id": 1,
-        "iconUrl": "email.svg",
-        "iconAlt": "Mail icon",
+        "iconName": "email.svg",
         "value": "office@kamsolutions.pl",
         "href": "mailto:office@kamsolutions.pl"
       },
       {
         "id": 2,
-        "iconUrl": "twitter.svg",
-        "iconAlt": "Twitter icon",
+        "iconName": "twitter.svg",
         "value": "https://twitter.com/wordpress",
         "href": "https://twitter.com/wordpress",
         "title": "Twitter"
       },
       {
         "id": 3,
-        "iconUrl": "facebook.svg",
-        "iconAlt": "Facebook icon",
+        "iconName": "facebook.svg",
         "value": "https://facebook.com/facebook",
         "href": "https://facebook.com/facebook",
         "title": "Twitter"
       },
       {
         "id": 4,
-        "iconUrl": "skype.svg",
-        "iconAlt": "Skype icon",
+        "iconName": "skype.svg",
         "value": "kamsolutions.pl",
         "href": "callto:kamsolutions.pl",
         "title": "Skype"
